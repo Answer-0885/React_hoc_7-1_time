@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_hoc_7-1_time/static/css/main.df8d57fb.css",
+    "main.js": "/React_hoc_7-1_time/static/js/main.0015c978.js",
+    "index.html": "/React_hoc_7-1_time/index.html",
+    "main.df8d57fb.css.map": "/React_hoc_7-1_time/static/css/main.df8d57fb.css.map",
+    "main.0015c978.js.map": "/React_hoc_7-1_time/static/js/main.0015c978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8d57fb.css",
+    "static/js/main.0015c978.js"
+  ]
+}
